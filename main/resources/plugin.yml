@@ -1,0 +1,10 @@
+name: CustomSwords
+version: ${project.version}
+main: me.tapwater.customswords.CustomSwords
+api-version: 1.16
+commands:
+  givecustomsword:
+    description: With an appropriate argument will give you a custom sword.
+
+
+
